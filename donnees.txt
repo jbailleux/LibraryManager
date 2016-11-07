@@ -1,0 +1,25 @@
+6
+salle000
+100
+cours
+salle001
+50
+cours
+salle002
+33
+tp
+salle003
+12
+tp
+salle004
+34
+tp
+salle005
+24
+cours
+
+forme
+nombre salles
+nomSalle
+capacite
+typeSalle

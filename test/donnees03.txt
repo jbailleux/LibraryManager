@@ -1,0 +1,13 @@
+2
+salle000
+100
+cours
+salle000
+100
+cours
+
+forme
+nombre salles
+nomSalle
+capacite
+typeSalle
